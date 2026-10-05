@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unidad6Ruta3</string>
+    <string name="search">Search</string>
+    <string name="search_placeholder">Search for an airport</string>
+    <string name="clear_search">Clear search</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="favorite_routes">Favorite routes</string>
+    <string name="flights_from">Flights from %1$s</string>
+    <string name="no_favorites">No favorite flights yet.\nSearch for an airport and tap the heart to save a route.</string>
+</resources>
